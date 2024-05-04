@@ -1,0 +1,11 @@
+# Spring Boot Starter Data MongoDB
+spring-boot-starter-data-mongodb
+
+# Spring Boot Starter Web
+spring-boot-starter-web
+
+# Spring Boot DevTools (runtime dependency)
+spring-boot-devtools
+
+# Spring Boot Starter Test (test scope)
+spring-boot-starter-test
